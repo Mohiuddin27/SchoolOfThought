@@ -33,6 +33,9 @@
     padding:5px 8px;
     font-size:13px!important;
 }
+.services .card .card-body{
+    height:270px;
+}
 
 }
 
